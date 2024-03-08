@@ -16,5 +16,4 @@ dependencies:
     - transformers
     - pytorch_lightning
     - sentencepiece 
-    - pickle5
     - h5py
