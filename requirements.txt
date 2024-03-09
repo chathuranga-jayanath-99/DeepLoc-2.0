@@ -9,7 +9,6 @@ fair-esm==0.4.0
 transformers
 pytorch_lightning
 sentencepiece 
-pickle5
 h5py
 pandas<2.0.0
 scikit-learn
